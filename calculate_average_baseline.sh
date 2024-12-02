@@ -1,0 +1,1 @@
+java -Xms512m -Xmx4g -cp target/classes/ CalculateAverage_baseline
